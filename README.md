@@ -1,4 +1,4 @@
-# 🎨 Book Store full presentation
+# 🎨 Book Store full system guide
 
 the link below:
 
